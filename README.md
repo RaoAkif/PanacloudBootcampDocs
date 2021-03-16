@@ -13,6 +13,7 @@
 *Coding Exercise: Project 3 - Shoe Store*
 #### Chapter 7: Web Animations API - Using in React
 *Coding Exercise: Project 4A - Red Queen's Race with Web Animation API and React Hooks*
+
 *Coding Exercise: Project 4B - Develop Tiny Short Animation with React Hooks*
 *Coding Exercise: Project 5 (Bonus Project) - Build an Animated React Website which follows the Latest Trends like Animated Illustrations*
 #### Chapter 8: TypeScript
