@@ -3,7 +3,7 @@
 #### Pre-Requisites: HTML, CSS & JavaScript
 
 #### Chapter 1: Development Setup
-#### Chapter 2: React Basics
+*** Chapter 2: React Basics ***
 #### Chapter 3: Using Hooks in React
 #### Coding Exercise: Project 1 - Build an Expense Tracker App using React Hooks and Context API
 #### Chapter 4: Fetching with Async/Await in JavaScript
