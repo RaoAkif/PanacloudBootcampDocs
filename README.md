@@ -15,6 +15,7 @@
 *Coding Exercise: Project 4A - Red Queen's Race with Web Animation API and React Hooks*
 
 *Coding Exercise: Project 4B - Develop Tiny Short Animation with React Hooks*
+
 *Coding Exercise: Project 5 (Bonus Project) - Build an Animated React Website which follows the Latest Trends like Animated Illustrations*
 #### Chapter 8: TypeScript
 *Coding Exercise: Project 6 - Quiz App with React and TypeScript*
@@ -32,8 +33,12 @@
 *Coding Exercise: Project 11 - Build a Taskbox React Component in TypeScript using Storybook and Publishing it on Bit*
 #### Chapter 15: JAMstack Serverless and Headless CMS
 *Coding Exercise: Project 12A - Build a Blog site in Gatsby.js and Contentful with TypeScript and Deploy on Netlify*
+
 *Coding Exercise: Project 12B - Building Serverless CRUD apps with Netlify Functions and FaunaDB*
+
 *Coding Exercise: Project 12C - Building a Serverless JAMStack To-do app with Netlify, Gatsby, GraphQL, and FaunaDB*
+
 *Coding Exercise: Project 12D - Create A Bookmarking Application with FaunaDB, Netlify And Gatsby*
+
 *Coding Exercise: Project 12E - Virtual Lolly using Gatsby.js, Netlify, FaunaDB, Formik, and Storybook 6*
 
