@@ -5,12 +5,12 @@
 #### Chapter 1: Development Setup
 #### Chapter 2: React Basics
 #### Chapter 3: Using Hooks in React
-*Coding Exercise: Project 1 - Build an Expense Tracker App using React Hooks and Context API
+*Coding Exercise: Project 1 - Build an Expense Tracker App using React Hooks and Context API*
 #### Chapter 4: Fetching with Async/Await in JavaScript
 #### Chapter 5: Material-UI - Using in React
-*Coding Exercise: Project 2 - COVID-19 Tracker App
+*Coding Exercise: Project 2 - COVID-19 Tracker App*
 #### Chapter 6: React Router
-*Coding Exercise: Project 3 - Shoe Store
+*Coding Exercise: Project 3 - Shoe Store*
 #### Chapter 7: Web Animations API - Using in React
 *Coding Exercise: Project 4A - Red Queen's Race with Web Animation API and React Hooks
 *Coding Exercise: Project 4B - Develop Tiny Short Animation with React Hooks
