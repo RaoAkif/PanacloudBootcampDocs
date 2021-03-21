@@ -4,6 +4,8 @@ Fork the Reporsitories of documentation from [CodeBitChips](https://github.com/C
 
 #### Pre-Requisites: HTML, CSS & JavaScript
 
+#### [Pre-Requisites: HTML, CSS & JavaScript](https://raoakif.medium.com/pre-requisites-of-bootcamp-2020-534add357083)
+
 #### Chapter 1: Development Setup
 #### Chapter 2: React Basics
 #### Chapter 3: Using Hooks in React
