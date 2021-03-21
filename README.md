@@ -2,8 +2,6 @@ Fork the Reporsitories of documentation from [CodeBitChips](https://github.com/C
 
 ### Documentation of Bootcamp 2020: Learn to Build Modern Full Stack Serverless Multi-Tenant SaaS Apps and APIs in Baby Steps and Build Your SaaS Startup
 
-#### Pre-Requisites: HTML, CSS & JavaScript
-
 #### [Pre-Requisites: HTML, CSS & JavaScript](https://raoakif.medium.com/pre-requisites-of-bootcamp-2020-534add357083)
 
 #### Chapter 1: Development Setup
